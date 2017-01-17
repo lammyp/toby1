@@ -25,12 +25,12 @@ SECRET_KEY = 'v^8vq&vlr*i#u^3@ooep!x-edqkzfhugi$&2$&_2r7jzi(96f8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+# ALLOWED_HOSTS = []
 
 # Comment out the preceding line, and uncomment its equivalent below if 
 # deploying to PythonAnywhere as described at 
 # https://tutorial/djangogirls.org/en/django_start_project/
-# ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', '192.168.1.10']
 
 
 # Application definition
