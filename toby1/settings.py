@@ -30,7 +30,7 @@ DEBUG = True
 # Comment out the preceding line, and uncomment its equivalent below if 
 # deploying to PythonAnywhere as described at 
 # https://tutorial/djangogirls.org/en/django_start_project/
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', '192.168.1.10']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', '192.168.1.10', '192.168.1.20']
 
 
 # Application definition
